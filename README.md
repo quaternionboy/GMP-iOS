@@ -4,7 +4,7 @@
 
 https://stackoverflow.com/questions/25844602/gmp-library-for-ios/60068738#60068738
 
-## LIBRARY:
+## LIBRARY:
 
 https://gmplib.org/#DOWNLOAD
 
@@ -12,7 +12,7 @@ brew install lzip
 
 tar -xf gmp-6.2.1.tar.lz
 
-## VARS:
+## VARS:
 
 PREFIX:
 
